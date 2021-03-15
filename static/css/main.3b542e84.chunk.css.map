@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,gBAAiB,CACjB,YAAa,CACb,kBAAmB,CACnB,qBAAsB,CACtB,cAAe","file":"main.3b542e84.chunk.css","sourcesContent":[".button {\n  margin-left: 15px;\n  padding: 10px;\n  border-radius: 10px;\n  background-color: #fff;\n  cursor: pointer;\n}\n"]}
